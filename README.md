@@ -65,6 +65,8 @@ The model follows a clean star schema architecture.
 
 Single-direction filtering is maintained to preserve model integrity and avoid ambiguity.
 
+
+
 ![Data Model](images/data%20model.png)
 
 ---
@@ -132,6 +134,7 @@ Includes:
 
 Focus: Throughput efficiency and demand pattern analysis.
 
+
 ![Operational Performance](images/Operational%20Overview.png)
 
 ---
@@ -148,6 +151,8 @@ Includes:
 - Ward efficiency profile (ALOS vs Occupancy)  
 
 Focus: Early detection of capacity strain and bottleneck identification.
+
+
 
 ![Capacity Forecast](images/Capacity%20Forecast.png)
 
