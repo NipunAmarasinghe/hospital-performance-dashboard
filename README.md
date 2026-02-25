@@ -179,4 +179,13 @@ This project was developed to demonstrate healthcare performance analytics capab
 - Operational metric modelling  
 - Capacity planning logic  
 - Health systems data storytelling  
-- Executive-level dashboard communication  
+- Executive-level dashboard communication
+
+---
+
+## Key Insights
+
+- Occupancy exceeded 100% during winter months, indicating surge capacity activation.
+- ICU demonstrates the highest Average Length of Stay (5.4 days), impacting bed turnover.
+- Mid-week admissions peak (Wed–Thu), suggesting elective clustering.
+- Several months classified as High Risk based on occupancy thresholds.
