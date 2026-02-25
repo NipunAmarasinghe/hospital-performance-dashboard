@@ -115,7 +115,7 @@ Includes:
 
 Focus: Strategic capacity pressure monitoring and surge detection.
 
-![Executive Overview](images/executive-overview.png)
+![Executive Overview](images/Executive%20Overview.png)
 
 ---
 
@@ -132,7 +132,7 @@ Includes:
 
 Focus: Throughput efficiency and demand pattern analysis.
 
-![Operational Performance](images/operational-performance.png)
+![Operational Performance](images/Operational%20Overview.png)
 
 ---
 
@@ -149,7 +149,7 @@ Includes:
 
 Focus: Early detection of capacity strain and bottleneck identification.
 
-![Capacity Forecast](images/capacity-forecast.png)
+![Capacity Forecast](images/Capacity%20Forecast.png)
 
 ---
 
