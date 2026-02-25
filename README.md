@@ -65,7 +65,7 @@ The model follows a clean star schema architecture.
 
 Single-direction filtering is maintained to preserve model integrity and avoid ambiguity.
 
-![Data Model](images/data-model.png)
+![Data Model](images/data_model.png)
 
 ---
 
